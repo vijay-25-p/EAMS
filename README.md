@@ -1,5 +1,4 @@
-# EAMS
-# Employee Management System (AMS)
+# Employee Agreement Management System (EAMS)
 
 EmployeeAMS is a Spring Boot-based application designed for managing employee records. This project provides APIs for adding, updating, deleting, and retrieving employee information.
 
@@ -32,8 +31,8 @@ EmployeeAMS is a Spring Boot-based application designed for managing employee re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vijay-25-p/EAMS/EmployeeAMS.git
-   cd EmployeeAMS
+   git clone [https://github.com/vijay-25-p/EAMS]
+   
 
 
   ## Swagger link
